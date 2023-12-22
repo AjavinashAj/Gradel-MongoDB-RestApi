@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      database: employees
+      uri: mongodb://localhost:27017
+
+server:
+  port: 9090
